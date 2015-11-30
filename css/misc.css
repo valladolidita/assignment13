@@ -1,0 +1,19 @@
+.inline {
+	display: inline !important;
+}
+
+.inline_block {
+	display: inline-block !important;
+}
+
+.invisible {
+	visibility: hidden !important;
+}
+
+.visible {
+	visibility: visible !important;
+}
+
+.no_mb {
+	margin-bottom: 0 !important;
+}
